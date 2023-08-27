@@ -4,12 +4,12 @@
   </a>
 </h1>
 
-## Technologies Used
+## Tecnologias usadas
 
 - [React](http://reactjs.org)
 - [React Bootstrap](https://react-bootstrap.netlify.app/)
 
-## Development
+## Desenvolvimento
 
 Para obter uma cópia local do código, clone-o usando git:
 
@@ -34,4 +34,5 @@ e então você pode abrir http://localhost:3000 para visualizá-lo no navegador.
 
 No arquivo Categoria.js e Produto.js pode mudar a porta local que está configurada para 8080, usar a porta de acordo com a porta que o Back-end está usando(url = 'http://localhost:8080';)
 
+## Nota
 Para o Back-end clonar o projeto https://github.com/JoelJonas93/bernhoeft em JAVA.
