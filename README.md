@@ -36,3 +36,4 @@ No arquivo Categoria.js e Produto.js pode mudar a porta local que está configur
 
 ## Nota
 Para o Back-end clonar o projeto https://github.com/JoelJonas93/bernhoeft em JAVA.
+Para que fosse entregue a tempo os filtros foram feitos usando a lógica no front, porém no back foi implementado e testado a lógica de filtro e paginação que seria usado.
